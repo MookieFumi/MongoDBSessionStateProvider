@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/MookieFumi/MongoDBSessionStateProvider</projectUrl>
+    <iconUrl>http://i57.tinypic.com/2vsmhac.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>MongoDB Session State Provider ASPNET MVC</tags>
+  </metadata>
+</package>
